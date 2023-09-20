@@ -12,5 +12,6 @@
   "mochaExplorer.watch": [
     "out/**/*.js",
     "addons/**/out/*.js"
-  ]
+  ],
+  "editor.formatOnSave": false
 }
